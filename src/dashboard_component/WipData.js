@@ -204,4 +204,4 @@ const WipData = [
     
 ]
 
-export default WipData
+export default WipData;

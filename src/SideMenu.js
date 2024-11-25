@@ -1,10 +1,10 @@
 
 
-function SideMenu({btn_name}){
+function SideMenu(){
 
     return(
         <>
-        <button className=" menuItem p-4 w-full" >{btn_name}</button> 
+        <button className=" menuItem p-4 w-full" >DASHBOARD</button> 
         </>
     )
 }
